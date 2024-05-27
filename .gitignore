@@ -1,6 +1,10 @@
 __pycache__/
 
-venv/
+.venv/
 
 dataset/*
 !dataset/README.md
+
+models/
+
+testImgs/
